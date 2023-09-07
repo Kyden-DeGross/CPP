@@ -1,0 +1,5 @@
+This is my notes for the course work. 
+
+I don't know how I am going to delineate the differences in notes. I might look into what that one guy was talking about more closely. 
+
+I think I should take this class more seriously as a way to both learn vim and learn CPP at the same time.
